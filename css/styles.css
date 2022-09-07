@@ -178,6 +178,10 @@ a {
   background-color: transparent;
 }
 
+a.aboutlink {
+  color: var(--blue);
+}
+
 a:hover {
   font-weight: bold;
   text-decoration: none;
