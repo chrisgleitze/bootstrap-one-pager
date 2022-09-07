@@ -179,7 +179,7 @@ a {
 }
 
 a.aboutlink {
-  color: var(--blue);
+  color: var(--light);
   text-decoration: underline;
 }
 
