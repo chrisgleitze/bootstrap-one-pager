@@ -180,6 +180,7 @@ a {
 
 a.aboutlink {
   color: var(--blue);
+  text-decoration: underline;
 }
 
 a:hover {
